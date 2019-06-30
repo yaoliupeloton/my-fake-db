@@ -78,7 +78,7 @@
       "error": "losted"
     },
     {
-      "content": "Unlike many proprietary big data processing platform different, Spark is built on a unified abstract RDD, making it possible to deal with different ways consistent with large data processing scenarios, including MapReduce, Streaming, SQL, Machine Learning and Graph so on. To understand the Spark, you have to understand the RDD. ",
+      "content": "Unlike many proprietary big data processing platform different,",
       "images": [
         {
           "url": "https://www.margo-group.com/wp-content/uploads/2018/04/cloud.jpg"
@@ -171,7 +171,7 @@
       "error": "WOW"
     },
     {
-      "content": "As a programmer, we should as far as possible away from the Windows system. However, the most a professional programmer, and very difficult to bypass Windows this wretched existence but in fact very real, then how to quickly build a simple set of available windows based test environment? See Qiu Juntao's blog. ",
+      "content": "As a programmer, we should as far as possible away from the",
       "images": [
         {
           "url": "https://mail.google.com/mail/u/1/?ui=2&ik=573a5ca95f&view=att&th=14878f4660e51a86&attid=0.1&disp=emb&realattid=ii_146c85172c506890&zw&atsh=1"
@@ -255,10 +255,10 @@
       }
     },
     {
-      "unknown error": "STARCRAFT2"
+      "unknown error": "RAFT2"
     },
     {
-      "content": "- The data json will be hosted in http://thoughtworks-ios.herokuapp.com/- Nibs or storyboards are prohibited- Implement cache mechanism by you own if needed- Unit tests is appreciated.- Functional programming is appreciated- Deployment Target should be 7.0- Utilise Git for source control, for git log is the directly evidence of the development process- Utilise GCD for multi-thread operation- Only binary, framework or cocopods dependency is allowed. do not copy other developer's source code(*.h, *.m) into your project- Keep your code clean as much as possible",
+      "content": "Nibs or storyboards are prohibited- Implement cache mechanism by you own if needed- Unit tests is appreciated.- Functional programming is appreciated",
       "sender": {
         "username": "qsuo",
         "nick": "Louis",
